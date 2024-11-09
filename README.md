@@ -41,7 +41,7 @@
 
 <h3 align="center">💬 Ask me about</h3>
 <p align="center">
-  Javascript , React, Node.js, DSA , MySql
+  Javascript , React, Node.js, DSA , MongoDB, Express.js
 </p>
 
 
