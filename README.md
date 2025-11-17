@@ -17,7 +17,7 @@
 <h3 align="center">🔭 Currently working at</h3>
 <p align="center">
   <a href="https://www.par-ken.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Parken%20solutions-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="IAMOPS" />
+    <img src="https://img.shields.io/badge/IAMOPS%20-0A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="IAMOPS" />
   </a>
 </p>
 
